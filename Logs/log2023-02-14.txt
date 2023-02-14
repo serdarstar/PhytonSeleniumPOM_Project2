@@ -34,3 +34,37 @@
 2023-02-14 12:58:07,669 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
 2023-02-14 12:58:07,788 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
 2023-02-14 12:58:07,788 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-02-14 13:26:46,823 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:29:48,807 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:30:38,209 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:31:31,093 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:33:15,752 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:34:00,341 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:48:48,121 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:48:48,202 - test_signup.py:[20] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 13:49:22,295 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:49:22,415 - test_signup.py:[20] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 13:49:55,236 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 13:55:02,297 - test_signup.py:[20] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 13:55:25,253 - test_signup.py:[17] - [INFO] - Test Do Sign up started
+2023-02-14 14:08:01,234 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:19:33,261 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:20:30,538 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:20:36,018 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 14:46:22,707 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:46:23,000 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-14 14:46:23,221 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-14 14:46:23,556 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-14 14:47:35,105 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:47:35,198 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-14 14:47:35,308 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-14 14:47:35,424 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-14 14:50:02,241 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 14:50:02,468 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-14 14:50:02,578 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-14 14:50:02,709 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-14 14:50:02,822 - BasePage.py:[32] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Italy
+2023-02-14 14:50:02,924 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-14 14:50:03,051 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-14 14:50:03,191 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : lsajdfksf
+2023-02-14 14:50:08,202 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully  executed
