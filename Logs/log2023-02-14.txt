@@ -68,3 +68,24 @@
 2023-02-14 14:50:03,051 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
 2023-02-14 14:50:03,191 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : lsajdfksf
 2023-02-14 14:50:08,202 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 15:14:55,704 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 15:14:55,781 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-14 15:14:55,874 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-14 15:14:55,964 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-14 15:14:56,026 - BasePage.py:[32] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Italy
+2023-02-14 15:14:56,089 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-14 15:14:56,166 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-14 15:14:56,225 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : lsajdfksf
+2023-02-14 15:15:01,229 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 15:16:31,227 - test_signup.py:[19] - [INFO] - Test Do Sign up started
+2023-02-14 15:16:31,312 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'name'] value entered as : Rahul
+2023-02-14 15:16:31,549 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'phone'] value entered as : 8927342
+2023-02-14 15:16:31,661 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'email'] value entered as : trainer@way2automation.com
+2023-02-14 15:16:31,745 - BasePage.py:[32] - [INFO] - Selecting from an element: // select[ @ name = 'country'] value selected as : Italy
+2023-02-14 15:16:31,844 - BasePage.py:[23] - [INFO] - Typing in an element: // input[ @ name = 'city'] value entered as : Delhi
+2023-02-14 15:16:31,988 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'username'] value entered as : rahularora1985
+2023-02-14 15:16:32,108 - BasePage.py:[23] - [INFO] - Typing in an element: // div[ @ id = 'load_box'] // input[ @ name = 'password'] value entered as : lsajdfksf
+2023-02-14 15:16:37,122 - test_signup.py:[23] - [INFO] - Test Do Sign up successfully  executed
+2023-02-14 15:19:15,469 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-14 15:21:00,312 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-14 15:21:08,778 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********

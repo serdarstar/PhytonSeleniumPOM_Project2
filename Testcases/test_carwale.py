@@ -2,7 +2,7 @@ import time
 
 import pytest
 
-from Pages.CarBase import CarBase
+from Pages.CarModelsPage import CarModelsPage
 from Pages.HomePage import HomePage
 from Pages.NewCarsPage import NewCarsPage
 from Testcases.BaseTest import BaseTest
@@ -21,67 +21,82 @@ class Test_CarWale(BaseTest):
         log.logger.info("******Inside New Car Test*********")
         home = HomePage(self.driver)
         home.gotoNewCars()
-        time.sleep(3)
+        time.sleep(1)
 
-    @pytest.mark.skip
+    # @pytest.mark.skip
     @pytest.mark.parametrize("carBrand,carTitle",
-                             dataProvider.get_data("NewCarsTest"))
+                             dataProvider.get_data("NewCars"))
     def test_selectCars(self, carBrand, carTitle):
         log.logger.info("******Inside Select Cars Test*********")
-        home = HomePage(self.driver)
-        car = CarBase(self.driver)
+        homePage = HomePage(self.driver)
+        newCarsPage = NewCarsPage(self.driver)
+        carModelsPage = CarModelsPage(self.driver)
 
         print("Car brand is : ", carBrand)
         if carBrand == "BMW":
-            home.gotoNewCars().selectBMW()
-            title = car.getCarTitle()
+            homePage.gotoNewCars()
+            newCarsPage.selectBMW()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
         elif carBrand == "Hyundai":
-            home.gotoNewCars().selectHyundai()
-            title = car.getCarTitle()
+            homePage.gotoNewCars()
+            newCarsPage.selectHyundai()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
         elif carBrand == "Honda":
-            home.gotoNewCars().selectHonda()
-            title = car.getCarTitle()
+            homePage.gotoNewCars()
+            newCarsPage.selectHonda()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
         elif carBrand == "Toyota":
-            home.gotoNewCars().selectToyota()
-            title = car.getCarTitle()
+            homePage.gotoNewCars()
+            newCarsPage.selectToyota()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
 
+    def test_selectCars1(self):
+        log.logger.info("******Inside Select Cars Test*********")
+        homePage = HomePage(self.driver)
+        homePage.gotoNewCars()
+
     @pytest.mark.parametrize("carBrand,carTitle",
-                             dataProvider.get_data("NewCarsTest"))
+                             dataProvider.get_data("NewCars"))
     def test_printCarNamesandPrices(self, carBrand, carTitle):
         log.logger.info("******Inside Car Names and Prices Test*********")
         home = HomePage(self.driver)
-        car = CarBase(self.driver)
+        carModelsPage = CarModelsPage(self.driver)
+        newCarsPage = NewCarsPage(self.driver)
 
         print("Car brand is : ", carBrand)
         if carBrand == "BMW":
-            home.gotoNewCars().selectBMW()
-            title = car.getCarTitle()
+            home.gotoNewCars()
+            newCarsPage.selectBMW()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
-            car.getCarNameAndPrices()
+            carModelsPage.getCarNameAndPrices()
         elif carBrand == "Hyundai":
-            home.gotoNewCars().selectHyundai()
-            title = car.getCarTitle()
+            home.gotoNewCars()
+            newCarsPage.selectHyundai()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
-            car.getCarNameAndPrices()
+            carModelsPage.getCarNameAndPrices()
         elif carBrand == "Honda":
-            home.gotoNewCars().selectHonda()
-            title = car.getCarTitle()
+            home.gotoNewCars()
+            newCarsPage.selectHonda()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
-            car.getCarNameAndPrices()
+            carModelsPage.getCarNameAndPrices()
         elif carBrand == "Toyota":
-            home.gotoNewCars().selectToyota()
-            title = car.getCarTitle()
+            home.gotoNewCars()
+            newCarsPage.selectToyota()
+            title = carModelsPage.getCarTitle()
             print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
-            car.getCarNameAndPrices()
+            carModelsPage.getCarNameAndPrices()

@@ -1,0 +1,124 @@
+2023-02-15 00:35:25,099 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 00:37:58,302 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 00:37:58,725 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:37:58,751 - BasePage.py:[19] - [INFO] - Clicking on an element: // div[contains(text(), 'Find New Cars')]
+2023-02-15 00:38:34,299 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:38:34,736 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:38:34,757 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 00:39:49,736 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:39:50,186 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:39:50,206 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 00:39:50,231 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 00:47:41,280 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:47:41,612 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:47:41,663 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 00:47:41,693 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 00:53:17,574 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:53:17,878 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:53:17,889 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 00:53:17,926 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 00:53:36,424 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:53:36,835 - BasePage.py:[39] - [INFO] - Moving to an element: //div[normalize-space()='NEW CARS']
+2023-02-15 00:53:36,874 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 00:53:36,929 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 00:59:08,544 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 00:59:08,578 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:01:31,397 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:01:31,417 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:01:49,915 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:01:49,977 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:06:19,554 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:06:19,577 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:07:36,863 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:07:36,888 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:10:08,240 - test_carwale.py:[62] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:10:08,270 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:14:10,307 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:14:10,329 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:16:44,169 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:16:44,211 - BasePage.py:[19] - [INFO] - Clicking on an element: //*[name()='path' and contains(@d,'M8 16a1 1 ')]
+2023-02-15 01:17:53,903 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:18:14,230 - BasePage.py:[19] - [INFO] - Clicking on an element: //*[name()='path' and contains(@d,'M8 16a1 1 ')]
+2023-02-15 01:22:55,054 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:25:14,932 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:25:15,205 - BasePage.py:[19] - [INFO] - Clicking on an element: //*[name()='path' and contains(@d,'M8 16a1 1 ')]
+2023-02-15 01:25:15,473 - BasePage.py:[19] - [INFO] - Clicking on an element: //img[@title='Mumbai']
+2023-02-15 01:26:55,089 - test_carwale.py:[21] - [INFO] - ******Inside New Car Test*********
+2023-02-15 01:26:55,291 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:26:55,561 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:27:10,873 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:27:11,015 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:27:11,235 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:27:12,133 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 01:27:19,745 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:27:19,930 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:27:20,193 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:27:21,008 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:27:38,595 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:27:38,865 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:27:39,099 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:27:39,761 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Toyota']
+2023-02-15 01:27:57,327 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:27:57,579 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:27:57,812 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:27:58,729 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Honda']
+2023-02-15 01:29:08,103 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:29:08,180 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:29:08,363 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:29:09,100 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:32:08,737 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:32:08,827 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:32:09,028 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:32:09,748 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:33:56,760 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:33:56,903 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:33:57,121 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:33:57,831 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:36:36,417 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:36:36,532 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:36:36,721 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:36:37,409 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:37:30,000 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:37:30,109 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:37:30,261 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:37:31,025 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 01:38:52,624 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:38:52,739 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:38:52,895 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:38:53,669 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 01:45:29,753 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:45:29,835 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:45:30,021 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:45:30,994 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 01:46:18,830 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:46:18,894 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:46:19,113 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:46:19,466 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:47:27,854 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:47:28,048 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:47:28,311 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:47:29,248 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:49:13,238 - test_carwale.py:[30] - [INFO] - ******Inside Select Cars Test*********
+2023-02-15 01:49:13,311 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:49:13,503 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:49:14,275 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:52:22,821 - test_carwale.py:[69] - [INFO] - ******Inside Car Names and Prices Test*********
+2023-02-15 01:52:22,915 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:52:23,079 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:52:23,811 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']
+2023-02-15 01:52:42,204 - test_carwale.py:[69] - [INFO] - ******Inside Car Names and Prices Test*********
+2023-02-15 01:52:42,403 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:52:42,671 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:52:43,575 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Hyundai']
+2023-02-15 01:52:54,368 - test_carwale.py:[69] - [INFO] - ******Inside Car Names and Prices Test*********
+2023-02-15 01:52:54,461 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:52:54,737 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:52:55,556 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Toyota']
+2023-02-15 01:53:03,684 - test_carwale.py:[69] - [INFO] - ******Inside Car Names and Prices Test*********
+2023-02-15 01:53:03,913 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:53:04,163 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:53:05,046 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='Honda']
+2023-02-15 01:54:33,224 - test_carwale.py:[69] - [INFO] - ******Inside Car Names and Prices Test*********
+2023-02-15 01:54:33,370 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='NEW CARS']
+2023-02-15 01:54:33,618 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[contains(text(),'Find New Cars')]
+2023-02-15 01:54:34,531 - BasePage.py:[19] - [INFO] - Clicking on an element: //div[normalize-space()='BMW']

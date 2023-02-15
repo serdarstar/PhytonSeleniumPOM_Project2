@@ -15,7 +15,7 @@ class BasePage:
         self.driver = driver
 
     def click(self, by, locator):
-        self.driver.find_element(by, locator)
+        self.driver.find_element(by, locator).click()
         log.logger.info("Clicking on an element: " + str(locator))
 
     def type(self, by, locator, value):
