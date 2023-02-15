@@ -4,6 +4,14 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import pytest
 from webdriver_manager.firefox import GeckoDriverManager
+chromeOptions=webdriver.ChromeOptions()
+# Disables push notifications
+prefs = {"profile.default_content_setting_values.notifications" : 2}
+chromeOptions.add_experimental_option("prefs", prefs)
+# Prevents Chrome is being controlled by automated test software message
+chromeOptions.add_experimental_option("excludeSwitches", ['enable-automation'])
+# Open in headless mode
+#chromeOptions.headless = True
 
 from Utilities import configReader
 
@@ -24,11 +32,11 @@ def log_on_failure(request,get_browser):
         allure.attach(driver.get_screenshot_as_png(), name="dologin", attachment_type=AttachmentType.PNG)
 
 
-@pytest.fixture(params=["chrome"],scope="function")
+@pytest.fixture(params=["chrome"],scope="function") # If you want to run your cases on Firefox as well, add Firefox to params here
 def get_browser(request):
 
     if request.param == "chrome":
-        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=chromeOptions)
     if request.param == "firefox":
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     request.cls.driver = driver
